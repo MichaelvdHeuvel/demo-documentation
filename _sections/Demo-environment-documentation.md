@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Demo environment documentation
 auto-header: none
 icon: fa-comment
 order: 2
