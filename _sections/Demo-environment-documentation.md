@@ -1,6 +1,6 @@
 ---
 title: Demo environment documentation
-auto-header: none
+auto-header: use-title
 icon: fa-comment
 order: 2
 ---
