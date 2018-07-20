@@ -7,5 +7,5 @@ email: contact@bol.com
 avatar: assets/images/avatar.jpg
 
 
-remote_theme: chrisbobbe/jekyll-theme-prologue
+remote_theme: CloudCannon/aviator-jekyll-template
 collections: [sections]
