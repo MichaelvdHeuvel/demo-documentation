@@ -1,5 +1,6 @@
 ---
 title: Release notes
+auto-header: use-title
 icon: fa-th
 order: 3
 ---
