@@ -2,7 +2,7 @@
 title: Release notes
 auto-header: use-title
 icon: fa-th
-order: 3
+order: 4
 ---
 
 # Release Notes
