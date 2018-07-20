@@ -1,3 +1,9 @@
+---
+title: Release notes
+icon: fa-th
+order: 3
+---
+
 # Release Notes
 
 Changes:
