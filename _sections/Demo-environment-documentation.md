@@ -2,7 +2,7 @@
 title: Demo environment documentation
 auto-header: use-title
 icon: fa-comment
-order: 2
+order: 3
 ---
 
 # Download offers CSV file
